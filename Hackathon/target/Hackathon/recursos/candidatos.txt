@@ -1,4 +1,0 @@
-13;Lula;Partido dos Trabalhadores (PT)
-14;Renan Santos;Missão
-70;Augusto Cury;Avante
-22;Flávio Bolsonaro;Partido Liberal (PL)

@@ -1,4 +1,0 @@
-1;Inteligência Artificial; estudar o comportamento de máquinas e algoritmos que simulam a inteligência humana
-2;Desenvolvimento Web; aprender a criar aplicações web interativas e responsivas
-3;Robótica; estudar o design e construção de robôs autônomos
-4;Cibersegurança; proteger sistemas e redes contra ameaças digitais

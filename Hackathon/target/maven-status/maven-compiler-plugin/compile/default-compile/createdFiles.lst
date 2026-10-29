@@ -1,5 +1,0 @@
-com\urna\model\Candidato.class
-com\urna\repository\CandidatoRepositoryTxt.class
-com\urna\repository\CandidatoRepository.class
-com\urna\service\UrnaService.class
-com\urna\controller\VotarServlet.class
